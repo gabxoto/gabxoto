@@ -1,6 +1,6 @@
 ### Hello World, I'm Gabriel, be very welcome
 # 💫 About Me:
-🔭 I’m currently studying in Unitau ( Universidade de Taubaté)<br>👯 I’m looking to be better at coding and always learn more<br>🌱 I’m currently learning JavaScript. I'm starting from the bottom.<br>
+🔭 I’m currently studying in Unitau ( Universidade de Taubaté)<br>👯 I’m looking to be better at coding and always learn more<br>🌱 I'm currently trying to learn as many languages ​​and technologies as possible. I'm a beginner in this universe.<br>
 
 
 ## 🌐 Socials:
